@@ -47,3 +47,27 @@ HABILIDADES
 PERFIL PROFISSIONAL
 
 Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo meus primeiros conhecimentos na área de tecnologia. Tenho facilidade para aprender, interesse em programação e vontade de adquirir experiência prática. Busco uma oportunidade que me permita aprender com profissionais da área, contribuir com a equipe e evoluir profissionalmente.
+
+EDUARDO HOEPFNER MACIEL
+29 anos
+duduhmaciel7@gmail.com
+
+Objetivo: Buscar uma primeira oportunidade de estágio na área de Tecnologia da Informação.
+
+Formação: Graduado em Administração na FAE, cursando Análise e Desenvolvimento de Sistemas na UP, English as a Second Language (Kentucky, EUA)
+
+Experiência profissional:
+Assistente administrativo na Secretaria Estadual do Esporte
+Administrador geral em Fazenda Terra Boa LTDA
+Analista administrativo na empresa Nova Gestões
+Assessor de Operações - analista financeiro na empresa CN Mercosul
+
+Habilidades:
+- Inglês fluente
+- Conhecimentos financeiros
+- Conhecimentos avançados em planilhas
+- Facilidade no aprendizado
+- Trabalho em equipe
+- Pro atividade
+- Organização
+- Comunicação
