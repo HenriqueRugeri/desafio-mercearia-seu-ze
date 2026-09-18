@@ -57,10 +57,10 @@ Objetivo: Buscar uma primeira oportunidade de estágio na área de Tecnologia da
 Formação: Graduado em Administração na FAE, cursando Análise e Desenvolvimento de Sistemas na UP, English as a Second Language (Kentucky, EUA)
 
 Experiência profissional:
-Assistente administrativo na Secretaria Estadual do Esporte
-Administrador geral em Fazenda Terra Boa LTDA
-Analista administrativo na empresa Nova Gestões
-Assessor de Operações - analista financeiro na empresa CN Mercosul
+Assistente administrativo na Secretaria Estadual do Esporte,
+Administrador geral em Fazenda Terra Boa LTDA,
+Analista administrativo na empresa Nova Gestões,
+Assessor de Operações - analista financeiro na empresa CN Mercosul.
 
 Habilidades:
 - Inglês fluente
