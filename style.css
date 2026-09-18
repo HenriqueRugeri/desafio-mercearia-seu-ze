@@ -135,6 +135,114 @@ footer{
     height: 38px;
     object-fit: contain;
 }
+/*area dos produtos*/
+.produtosdiv {
+    margin: 40px;
+}
+/* organização das imagens dos  produtos*/
+.produtoDiv img {
+
+display: block;
+
+width: 100%;
+
+max-width: 350px;
+
+height: 250px;
+
+object-fit: cover;
+
+margin: 0 auto;
+
+border-radius: 10px;
+
+border: 4px solid var(--verde);
+
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+}
+
+/* Efeito ao passar o mouse */
+
+.produtoDiv img:hover {
+
+transform: scale(1.03);
+
+transition: 0.3s;
+}
+
+.produtos-grid {
+
+display: grid;
+
+grid-template-columns: repeat(3, 1fr);
+
+gap: 25px;
+
+}
+
+.produto {
+
+background-color: var(--branco);
+
+padding: 20px;
+
+text-align: center;
+
+border-radius: 10px;
+
+box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+
+}
+
+.produto img {
+
+width: 100%;
+
+height: 200px;
+
+object-fit: cover;
+
+border-radius: 8px;
+
+margin-bottom: 15px;
+
+}
+
+.produto h3 {
+
+font-family: Georgia, 'Times New Roman', serif;
+
+font-size: 22px;
+
+color: var(--verde);
+
+margin-bottom: 5px;
+
+}
+
+.produto p {
+
+color: var(--texto);
+
+}
+
+/* Celular */
+
+@media (max-width: 700px) {
+}
+
+.produtos-grid {
+
+grid-template-columns: 1fr;
+
+}
+
+.produto img {
+
+height: 220px;
+}
+
 footer a{
     text-decoration:none;
     color:var(--branco);
