@@ -29,14 +29,6 @@ FORMAÇÃO ACADÊMICA
 
 Análise e Desenvolvimento de Sistemas (ADS)
 
-CONHECIMENTOS
-
-- Lógica de programação — básico
-- Linguagem C — básico
-- HTML e CSS — básico
-- Banco de dados — noções básicas
-- Microsoft Word e Excel — básico
-
 Atualmente em processo de aprendizado e desenvolvimento dos conhecimentos técnicos.
 
 EXPERIÊNCIA PROFISSIONAL
