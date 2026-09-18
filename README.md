@@ -33,14 +33,6 @@ Atualmente em processo de aprendizado e desenvolvimento dos conhecimentos técni
 
 EXPERIÊNCIA PROFISSIONAL
 
-Atendimento / Telemarketing
-
-- Atendimento e comunicação com clientes;
-- Trabalho em equipe;
-- Cumprimento de metas e procedimentos;
-- Organização e responsabilidade com as atividades;
-- Adaptação a diferentes demandas e situações.
-
 HABILIDADES
 
 - Facilidade para aprender
