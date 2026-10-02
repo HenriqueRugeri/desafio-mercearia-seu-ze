@@ -1,6 +1,7 @@
+
 # desafio-mercearia-seu-ze
 
-João Vitor Stainzack Figueiredo
+Assim queJoão Vitor Stainzack Figueiredo
 
 Objetivo: Estágio na área de Tecnologia da Informação.
 
@@ -80,3 +81,23 @@ Habilidades:
 -Fluente em espanhol
 - Coordenador de evemtos empresariais
 - Facil trabalho em equipe
+
+Igor Samuel dos santos conceição 
+19 anos
+igorconceicao925@gmail.com
+OBJETIVO:
+buscar estágio na área de engenharia de software ou áreas relacionadas 
+FORMAÇÃO:
+– ÊNFASE EM VENDAS - CIEE
+- EXCEL BÁSICO - CIEE
+- EXCEL INTERMEDIÁRIO - CIEE
+- EXCEL AVANÇADO - CIEE
+- inglês básico - SESC
+- HABILIDADE:
+- trabalho em equipe
+- comunicação
+- fácil no aprendizado 
+  FORMAÇÃO ACADÊMICA:
+- engenharia de software - UP
+- Atualmente em processo de aprendizagem 
+- 
