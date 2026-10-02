@@ -71,3 +71,12 @@ Habilidades:
 - Pro atividade
 - Organização
 - Comunicação
+
+Ian Cassius Carvalho Choma
+20 anos
+objetivo: conseguir um emprego que eu ganhe mais do que eu ganho hoje em dia e trabalhando um pouco menos pensando que sempre gostei com programação
+Habilidades: 
+-Formação em dança
+-Fluente em espanhol
+- Coordenador de evemtos empresariais
+- Facil trabalho em equipe
