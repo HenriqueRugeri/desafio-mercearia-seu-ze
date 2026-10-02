@@ -101,3 +101,14 @@ FORMAÇÃO:
 - engenharia de software - UP
 - Atualmente em processo de aprendizagem 
 - 
+Henrique de Chaves Rugeri
+18 anos
+henriquecrugeri@gmail.com
+Curitiba - PR
+Objetivo: Conseguir experiência dentro do mercado de trabalho e ajudar positivamente dentro da empresa.
+Experiências: Vivência prática em atividades técnicas, incluindo soldagem, circuitos elétricos, encanamento e manutenção de equipamentos eletrônicos. Experiência adquirida em ambiente doméstico, desenvolvendo habilidades manuais, organização e resolução de problemas. Contato com conceitos de tecnologia, lógica de programação e desenvolvimento.
+Escolaridade: Atualmente cursando Engenharia de Software na universidade Positivo 1° período e ensino médio técnico em analise em desenvolvimento de sistemas, finalizado em 2025.
+-Inglês intermediario.
+-Excel básico.
+-Lógica de programação.
+-Vontade de aprender.
